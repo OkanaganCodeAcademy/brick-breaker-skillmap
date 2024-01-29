@@ -4,7 +4,8 @@ Github-hosted skill maps are loaded in the same manner as tutorials, with a URL 
 formatted as follows:
 
 `https://arcade.makecode.com/skillmap#github:[organization name]/[repository name]/[markdown file name]`
-Ex: https://arcade.makecode.com/skillmap#github:OkanaganCodeAcademy/brick-breaker-skillmap/skillmap.md
+
+- Ex: https://arcade.makecode.com/skillmap#github:OkanaganCodeAcademy/brick-breaker-skillmap/skillmap.md
 
 ## Syntax
 
