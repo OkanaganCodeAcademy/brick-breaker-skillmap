@@ -1,4 +1,4 @@
-# Okanagan Code Academy
+# Okanagan-Code-Academy
 * name: Game Maker Guide
 * description: Level up your game making skills by completing the tutorials in this guide.
 
@@ -8,10 +8,9 @@
 
 ### brick-breaker1
 
-* name: Paddle Design
+* name: paddleDesign
 * type: tutorial
 * description: Draw and code a Paddle!
 * tags: easy
-* url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/blob/main/tutorials/activities/activity1
-
+* url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/blob/main/tutorials/activities/activity-1
 
