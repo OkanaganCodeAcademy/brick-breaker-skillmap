@@ -8,17 +8,7 @@
     "files": [
         "README.md",
         "skillmap.md",
-        "tutorials/interface/activity1.md",
-        "tutorials/platformer/activity1.md",
-        "tutorials/platformer/activity2.md",
-        "tutorials/platformer/activity3.md",
-        "tutorials/platformer/activity4.md",
-        "tutorials/platformer/activity5.md",
-        "tutorials/space/activity1.md",
-        "tutorials/space/activity2.md",
-        "tutorials/space/activity3.md",
-        "tutorials/space/activity4.md",
-        "tutorials/space/activity5.md"
+        "https://github.com/OkanaganCodeAcademy/MakeCodeArcadeTutorials/blob/main/brick-breaker/activities/activity-1.md"
     ],
     "testFiles": [
     ],

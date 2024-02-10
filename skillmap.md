@@ -14,6 +14,6 @@
 * description: Draw and code a Paddle!
 * tags: easy
 * next: NONE
-* url: https://github.com/OkanaganCodeAcademy/MakeCodeArcadeTutorials/brick-breaker/activities/activity-1.md
+* url: https://github.com/OkanaganCodeAcademy/MakeCodeArcadeTutorials/blob/main/brick-breaker/activities/activity-1.md
 * imageUrl: TODO (link)
 
