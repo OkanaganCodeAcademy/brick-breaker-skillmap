@@ -13,7 +13,6 @@
 * type: tutorial
 * description: Draw and code a Paddle!
 * tags: easy
-* next: NONE
 * url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/tutorials/activities/activity-1
 * imageUrl: TODO (link)
 
