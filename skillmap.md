@@ -7,14 +7,13 @@
 * description: Brick Breaker is a classic arcade game that dates back to the 1970s and gained popularity in the 1980s and 1990s. The game typically involves a paddle, a ball, and a wall of bricks.
 * completionUrl: TODO (link)
 
-### space-activity1
+### brick-breaker1
 
-* name: Ship Design
+* name: Paddle Design
 * type: tutorial
-* description: Draw and code a spaceship!
+* description: Draw and code a Paddle!
 * tags: easy
-* next: space-activity2
-
-* url: https://github.com/OkanaganCodeAcademy/MakeCodeArcadeTutorials/blob/main/brick-breaker/activities/activity-1.md
+* next: NONE
+* url: https://github.com/OkanaganCodeAcademy/MakeCodeArcadeTutorials/brick-breaker/activities/activity-1.md
 * imageUrl: TODO (link)
 
