@@ -1,11 +1,11 @@
-# sample
+# Okanagan Code Academy
 * name: Game Maker Guide
 * description: Level up your game making skills by completing the tutorials in this guide.
 
-## space
-* name: Design a Space Explorer
-* description: Let's explore the depths of space! We'll design a vessel for space travel, add some enemies, and populate the universe with planets.
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/design-a-space-explorer.pdf
+## Brick-Breaker
+* name: Design an Arcade Brick Breaker Game
+* description: Brick Breaker is a classic arcade game that dates back to the 1970s and gained popularity in the 1980s and 1990s. The game typically involves a paddle, a ball, and a wall of bricks.
+* completionUrl: TODO (link)
 
 ### space-activity1
 
@@ -15,39 +15,6 @@
 * tags: easy
 * next: space-activity2
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
-
-### space-activity2
-
-* name: Projectiles
-* type: tutorial
-* description: Customize your ship with projectiles and effects.
-* tags: easy, projectiles, kinds
-* next: space-activity3
-
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity2
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity2.png
-
-### space-activity3
-
-* name: Enemies
-* description: Watch out for danger! Add enemies and lives to your game.
-* type: tutorial
-* tags: easy, enemies, kinds
-* next: space-activity4
-
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity3
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity3.png
-
-### space-activity4
-
-* name: Fuel Up
-* type: tutorial
-* description: Use an extension to add a fuel gauge to your ship. Make sure to refuel often!
-* tags: intermediate, extensions
-
-
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity4
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity4.png
+* url: https://github.com/OkanaganCodeAcademy/MakeCodeArcadeTutorials/blob/main/brick-breaker/activities/activity-1.md
+* imageUrl: TODO (link)
 
