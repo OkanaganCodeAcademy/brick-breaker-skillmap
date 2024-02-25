@@ -13,5 +13,5 @@
 * description: Draw and code a Paddle!
 * tags: easy
 
-* url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/blob/main/tutorials/activities/activity-1.md
+* url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/tutorials/activities/activity-1.md
 
