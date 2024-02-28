@@ -31,6 +31,6 @@
 - name: Creating the Ball
 - type: tutorial
 - description: Draw and code a Ball!
-- url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/tutorials/activities/activity-2
+- url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/tutorials/activities/activity-3
 - tags: easy, sprites, kinds, events, math
 - allowcodecarryover: true
