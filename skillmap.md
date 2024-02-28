@@ -11,19 +11,26 @@
 * name: Paddle Design
 * type: tutorial
 * description: Draw and code a Paddle!
-* tags: easy, sprites, kinds
-
-* next: brick-breaker-activity2
-
-* allowcodecarryover: true
-
 * url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/tutorials/activities/activity-1
+* tags: easy, sprites, kinds
+* next: brick-breaker-activity2
+* allowcodecarryover: true
 
 ### brick-breaker-activity2
 
 - name: Creating the Ball
 - type: tutorial
 - description: Draw and code a Ball!
+- url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/tutorials/activities/activity-2
+- tags: easy, sprites, kinds, events, math
+- next: brick-breaker-activity3
+- allowcodecarryover: true
+
+### brick-breaker-activity3
+
+- name: Creating the Ball
+- type: tutorial
+- description: Draw and code a Ball!
+- url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/tutorials/activities/activity-2
 - tags: easy, sprites, kinds, events, math
 - allowcodecarryover: true
-- url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/tutorials/activities/activity-2
