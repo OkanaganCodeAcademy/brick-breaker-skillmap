@@ -13,5 +13,14 @@
 * description: Draw and code a Paddle!
 * tags: easy
 
+* next: brick-breaker-activity2
+
 * url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/tutorials/activities/activity-1
 
+### brick-breaker-activity2
+
+- name: Creating the Ball
+- type: tutorial
+- description: Draw and code a Ball!
+- tags: easy
+- url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/tutorials/activities/activity-2
