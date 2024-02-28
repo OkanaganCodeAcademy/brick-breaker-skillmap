@@ -15,6 +15,8 @@
 
 * next: brick-breaker-activity2
 
+* allowcodecarryover: true
+
 * url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/tutorials/activities/activity-1
 
 ### brick-breaker-activity2
@@ -23,4 +25,5 @@
 - type: tutorial
 - description: Draw and code a Ball!
 - tags: easy, sprites, kinds, events, math
+- allowcodecarryover: true
 - url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/tutorials/activities/activity-2
