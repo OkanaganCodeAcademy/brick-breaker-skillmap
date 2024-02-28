@@ -1,4 +1,4 @@
-# Brick-Breacker-Guide
+# Brick-Breaker-Guide
 * name: Game Maker Guide
 * description: Level up your game making skills by completing the tutorials in this guide.
 
@@ -11,7 +11,7 @@
 * name: Paddle Design
 * type: tutorial
 * description: Draw and code a Paddle!
-* tags: easy
+* tags: easy, sprites, kinds
 
 * next: brick-breaker-activity2
 
@@ -22,5 +22,5 @@
 - name: Creating the Ball
 - type: tutorial
 - description: Draw and code a Ball!
-- tags: easy
+- tags: easy, sprites, kinds, events, math
 - url: https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/tutorials/activities/activity-2
