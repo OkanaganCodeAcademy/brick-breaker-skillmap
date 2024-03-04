@@ -8,7 +8,7 @@
 In this tutorial, you'll create the paddle, and make it move!
 
 ---
-![Game Demo](../images/brick-breaker-game-demo.gif) 
+![Game Demo](../images/brick-breaker-game-demo.gif?raw=true) 
 
 
 ## Creating the Paddle 
