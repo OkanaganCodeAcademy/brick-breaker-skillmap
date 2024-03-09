@@ -8,7 +8,7 @@
 In this tutorial, you'll create the paddle, and make it move!
 
 ---
-![Game Demo](https://raw.githubusercontent.com/OkanaganCodeAcademy/brick-breaker-skillmap/blob/main/tutorials/images/brick-breaker-game-demo.gif?raw=true "Game Demo")
+![Game Demo](https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/blob/main/tutorials/images/brick-breaker-game-demo.gif "Game Demo")
 
 
 
@@ -20,7 +20,7 @@ Lets start by making the Paddle Sprite!
 - :mouse pointer: Click on ``||variables: mySprite||`` and select the ``||variables: Rename||`` option 
 and rename the sprite to **paddleSprite**.
 
-![Rename Sprite](https://raw.githubusercontent.com/OkanaganCodeAcademy/brick-breaker-skillmap/blob/main/tutorials/images/brick-breaker-rename-sprite.gif?raw=true "Rename Sprite")
+![Rename Sprite](https://github.com/OkanaganCodeAcademy/brick-breaker-skillmap/blob/main/tutorials/images/brick-breaker-rename-sprite.gif "Rename Sprite")
 
 ---
 
